@@ -1,7 +1,7 @@
 # Deploy a ruby on rails application 
 <hr>
 
-# Table of Conect
+# Table of contents
 
 1. [The Stack](#Stack)
 2. [Prepare environment](#Prepare-env)
